@@ -26,3 +26,12 @@ p{
     border-style: ridge;
     margin: 5px;
 }
+
+h1{
+    font-family: Roboto, sans-serif;
+    text-align: center;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
